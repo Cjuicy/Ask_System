@@ -18,5 +18,6 @@
 | ----------------------------------------------------- | ------------------------------------------------------------ |
 | Neo4j医疗知识图谱智能问答机器人（同济子豪兄视频教程） | https://www.bilibili.com/video/BV1uY41167Ha/?share_source=copy_web&vd_source=e79645cf3a39688bb0f18afe3224fd34 |
 | 知识图谱老师博客（刘焕勇-个人主页）                   | https://liuhuanyong.github.io/                               |
-| 刘焕勇老师——github博客                                | (https://github.com/liuhuanyong/liuhuanyong.github.io)       |
+| 刘焕勇老师——github博客                                | https://github.com/liuhuanyong/liuhuanyong.github.io         |
+| **斯坦福CS22W公开课（中文精讲）**（同济子豪兄）       | https://www.bilibili.com/video/BV1pR4y1S7GA/?share_source=copy_web&vd_source=e79645cf3a39688bb0f18afe3224fd34 |
 
